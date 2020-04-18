@@ -11,46 +11,52 @@ redirect_from:
 
 Education
 ======
-* B.S. in Aeronautical & Astronautical Engineering, The Ohio State University, 2012
-* M.S. in Aerospace Engineering, Georgia Institute of Technology, 2016
-* Ph.D in Electrical Engineering, University of Cincinnati, 2021 (expected)
+* 2016-2019: Ph.D in Signal, Image, Vision, CentraleSupélec.
+* 2015-2016: M.S. in Image Processing, Télécom Paris and Sorbonne University.
+* 2010-2015: B.S. in Information and Communication System, Hanoi University of Science and Technology.
 
 Work experience
 ======
-* Jun 2017 -- present: Research Engineer, Air Force Research Laboratory (AFRL/RQQA)
-    * Power and Control Division, Autonomous Controls Branch
-    * Perform fundamental research as a member of the UAV Cooperative Control Team
-    * Pursuit-evasion differential games
-    - Persistent Intelligence, Surveillance, and Reconnaissance algorithms
+* Sep 2019 -- present: Research Development Engineer at Institute of Research and Technology b-com
+    * Augmented Reality and Computer Vision projects for Industry and Healthcare 4.0
 
-* Jul 2012 -- Jun 2017: Research Engineer, Air Force Research Laboratory (AFRL/RQTE)
-    * Turbine Engine Division, Engine Systems Branch
-    - Served as Integrated Product Team member under several turbine engine technology programs
-    - Established plans and roadmaps for turbine engine controls technologies
-    - Research: turbine engine controls software, actuators, sensors
+* Sep 2016 -- Aug 2018: PhD student at Institute of Research and Technology b-com
+    * Thesis: Hybrid Machine Learning and Geometric Approaches for Single RGB Camera Relocalization
 
-- Jun -- Aug 2011: Software Development Intern, Boeing
-    - Developed support software and tools or the F-15SA flight control software group
+* Feb 2016 -- Jul 2016: Master internship at INNOV-PLUS, Orsay, France
+    * Task: Embedded Electronic Development: Real-Time Porting of Image Processing Algorithms to reduce driver fatigue losses.
+	
+* Oct 2014 -- Jul 2015: Research Internship – MICA Research Institute (IPH-CNRS/UMI 2954 INP Grenoble, Vietnam)
+	* Task 1: Research and development computer vision algorithms for identifying plants using their image.
+	* Task 2: Build image processing systems to detect, track and characterize boats on the sea.
+	
+* Jun 2014 -- Aug 2014: Engineer Internship – BK-ICT (an IT company, Vietnam)
+	* Task: Research of the ARM microcontroller and creation of a communication system at a hospital by wifi.
+	
+* Jul 2013 -- Aug 2013: Engineer Internship – LIFETIME (an IT company, Vietnam)
+	* Task: iOS application development.
 
 Skills
 ======
-- Python
-- LaTeX
-- Technical Writing
+* Image Processing, Computer Vision, Machine Learning, Augmented Reality.
+* Programming: C++, Python, C#, Matlab, Unity3D.
+* Framework: OpenCV, Pytorch/Libtorch, Caffe.
+* Languages: Vietnamese, French, English.
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Find my articles on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
   
-Talks
+Patents
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* <b>Nam-Duong Duong</b>, Amine Kacete, Catherine Soladie.Method for Estimating TheInstallation of a Camera in The Reference Frame of a Three-Dimensional Scene, Device,Augmented Reality System and Associated Computer Program. Patent WO2019091787.May 16, 2019.
+* <b>Nam-Duong Duong</b>, Amine Kacete, Catherine Soladie.Procédé de prédictiond’une représentation en trois dimensions (3D), Dispositif, Système et Programmed’ordinateur correspondant. Patent FR1873626.
   
-Service and leadership
+Awards
 ======
-* Community Teaching Assistant, Databricks
-    - Served as TA for online course CS105.x via edX in 2016
+* Apr 2019: The best PhD student at IRT b-com in 2018.
+* Jun 2015:	First prize at the Scientific Research Competition of the MICA Institute – CNRS/UMI 2954.
+* Jun 2013:	Second prize at the Microsoft Competition.
+* Apr 2009:	Second Prize in Information Technology at the National Student Achievement Selection Competition 2009-2010, Vietnam.
+* Apr 2008:	Second Prize in Information Technology at the National Student Achievement Selection Competition 2008-2009, Vietnam.
+
