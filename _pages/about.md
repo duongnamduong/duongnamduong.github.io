@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher with the Control Science Center of Excellence, Aerospace Systems Directorate, Air Force Research Laboratory.
-I hold a B.S. from Ohio State (2012) and an M.S. from Georgia Institute of Technology (2016) both in Aerospace Engineering. 
-In 2011 I received the Department of Defense SMART Scholarship.
-Then in 2014 I received SMART again to pursue my M.S.
-Currently, I'm also pursuing a Ph.D. in Electrical Engineering at University of Cincinnati under Zach Fuchs.
-In 2019 I received the [Dave Ward Memorial Lecture Award](http://www.acgsc.org/ward_award.php) from the Aerospace Control and Guidance Systems Committee for outstanding contribution to the autonomy of unmanned aerial systems in the area of game-theoretic control in adversarial environments.
+I am a Research and Development Engineer at [Institute of Research and Technology b-com](https://b-com.com/), where I am currently working on Augmented Reality and Computer Vision projects for Industry and Healthcare 4.0. 
+Also here, I worked as a PhD student for three years and defensed successfully my PhD degree in Signal, Image, Vision at [CentraleSupélec](https://www.centralesupelec.fr/), France. My research focuses on Computer Vision, Machine Learning, Augmented Reality, and especially developing real-time algorithms for camera localization and relocalization.
 
+Earlier, I got my Master's degree in Image Processing co-organised by [Télécom Paris](https://www.telecom-paris.fr/) and [Sorbonne University](http://www.sorbonne-universite.fr/) as well as my bachelor's degree in Information and Communication System at [Hanoi University of Science and Technology](https://en.hust.edu.vn/).
 
-My research interests include multi-agent systems, cooperative control, differential games, and pursuit-evasion.
+I am interested in building intelligent systems that make sense to society.
