@@ -2,7 +2,7 @@
 title: "DynaLoc: Real-Time Camera Relocalization from a Single RGB Image in Dynamic Scenes based on an Adaptive Regression Forest"
 collection: publications
 permalink: /publication/duong2020Dynaloc
-date: 2020-02
+date: 2020-02-07 01:00:00 +0100
 venue: '15th International JointConference on Computer Vision, Imaging and Computer Graphics Theory and Appli-cations, VISIGRAPP, 2020'
 paperurl: 'https://hal.archives-ouvertes.fr/hal-02392596/file/postprint_visapp_id36_dynaloc.pdf'
 pubtype: 'conference'
