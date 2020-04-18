@@ -26,10 +26,4 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<h2>Academic</h2>
-{% for post in site.publications reversed %}
-  {% if post.pubtype == 'academic' %}
-      {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
 
