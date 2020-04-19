@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+PDF version ([En](https://duongnamduong.github.io/files/Duong_CV_en.pdf) / [Fr](https://duongnamduong.github.io/files/Duong_CV_fr.pdf))
+
 Education
 ======
 * 2016-2019: Ph.D in Signal, Image, Vision, CentraleSupélec.
@@ -49,14 +51,14 @@ Publications
   
 Patents
 ======
-* <b>Nam-Duong Duong</b>, Amine Kacete, Catherine Soladie.Method for Estimating TheInstallation of a Camera in The Reference Frame of a Three-Dimensional Scene, Device,Augmented Reality System and Associated Computer Program. Patent WO2019091787.May 16, 2019.
-* <b>Nam-Duong Duong</b>, Amine Kacete, Catherine Soladie.Procédé de prédictiond’une représentation en trois dimensions (3D), Dispositif, Système et Programmed’ordinateur correspondant. Patent FR1873626.
+* <b>Nam-Duong Duong</b>, Amine Kacete, Catherine Soladie. Method for Estimating the Installation of a Camera in the Reference Frame of a Three-Dimensional Scene, Device, Augmented Reality System and Associated Computer Program. Patent WO2019091787.May 16, 2019.
+* <b>Nam-Duong Duong</b>, Amine Kacete, Catherine Soladie. Procédé de prédiction d’une représentation en trois dimensions (3D), Dispositif, Système et Programme d’ordinateur correspondant. Patent FR1873626.
   
 Awards
 ======
 * Apr 2019: The best PhD student at IRT b-com in 2018.
 * Jun 2015:	First prize at the Scientific Research Competition of the MICA Institute – CNRS/UMI 2954.
 * Jun 2013:	Second prize at the Microsoft Competition.
-* Apr 2009:	Second Prize in Information Technology at the National Student Achievement Selection Competition 2009-2010, Vietnam.
-* Apr 2008:	Second Prize in Information Technology at the National Student Achievement Selection Competition 2008-2009, Vietnam.
+* Apr 2009:	Second Prize in Information Technology at the 2009 National Contest for Gifted High School Students.
+* Apr 2008:	Second Prize in Information Technology at the 2008 National Contest for Gifted High School Students.
 
