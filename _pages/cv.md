@@ -53,6 +53,7 @@ Patents
 ======
 * <b>Nam-Duong Duong</b>, Amine Kacete, Catherine Soladie. Method for Estimating the Installation of a Camera in the Reference Frame of a Three-Dimensional Scene, Device, Augmented Reality System and Associated Computer Program. Patent WO2019091787.May 16, 2019.
 * <b>Nam-Duong Duong</b>, Amine Kacete, Catherine Soladie. Procédé de prédiction d’une représentation en trois dimensions (3D), Dispositif, Système et Programme d’ordinateur correspondant. Patent FR1873626.
+* <b>Nam-Duong Duong</b>, Amine Kacete, Catherine Soladie. Method for predicting a three-dimensional (3d) depiction, and corresponding device, system and computer program. Patent WO2020126693. Jun 25, 2020.
   
 Awards
 ======
