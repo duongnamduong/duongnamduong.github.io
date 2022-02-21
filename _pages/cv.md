@@ -20,23 +20,29 @@ Education
 Work experience
 ======
 * Sep 2019 -- present: Research Development Engineer at Institute of Research and Technology b-com
-    * Augmented Reality and Computer Vision projects for Industry and Healthcare 4.0
+    * Working on Augmented Reality and Computer Vision projects for Industry and Healthcare 4.0, and especially developing real-time algorithms for camera localization, relocalization and mapping for digital twin and AR cloud.
+	* Joining to develop an Augmented Reality framework, called [SolARFramework](https://solarframework.github.io/).
+	* Co-supervisor of interns and a PhD student, Yasser Boutaleb, for the thesis: The analysis of a user's activity in augmented reality.
 
 * Sep 2016 -- Aug 2018: PhD student at Institute of Research and Technology b-com
     * Thesis: Hybrid Machine Learning and Geometric Approaches for Single RGB Camera Relocalization
+	* Supervisors: Pierre-Yves RICHARD, Catherine SOLADIÉ, Jérôme ROYAN.
+	* Defense on 10th December 2019
+	* Juries: Guillaume MOREAU, Tomas PAJDLA, Vincent LEPETIT and supervisors.
+
 
 * Feb 2016 -- Jul 2016: Master internship at INNOV-PLUS, Orsay, France
-    * Task: Embedded Electronic Development: Real-Time Porting of Image Processing Algorithms to reduce driver fatigue losses.
+    * Develop the driver alertness system based on images to reduce driver fatigue losses.
 	
 * Oct 2014 -- Jul 2015: Research Internship – MICA Research Institute (IPH-CNRS/UMI 2954 INP Grenoble, Vietnam)
-	* Task 1: Research and development computer vision algorithms for identifying plants using their image.
-	* Task 2: Build image processing systems to detect, track and characterize boats on the sea.
+	* Research and development computer vision algorithms for identifying plants using their image.
+	* Build image processing systems to detect, track and characterize boats on the sea.
 	
 * Jun 2014 -- Aug 2014: Engineer Internship – BK-ICT (an IT company, Vietnam)
-	* Task: Research of the ARM microcontroller and creation of a communication system at a hospital by wifi.
+	* Research of the ARM microcontroller and creation of a communication system at a hospital by wifi.
 	
 * Jul 2013 -- Aug 2013: Engineer Internship – LIFETIME (an IT company, Vietnam)
-	* Task: iOS application development.
+	* iOS application development.
 
 Skills
 ======
