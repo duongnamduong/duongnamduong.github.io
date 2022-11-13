@@ -9,7 +9,7 @@
 title                    : "Nam Duong Duong"
 title_separator          : "-"
 name                     : &name "Nam Duong Duong"
-description              : &description "R&D engineer at IRT b-com"
+description              : &description "Sr. Engineer at GoPro"
 url                      : https://duongnamduong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "duongnamduong/duongnamduong.github.io"
