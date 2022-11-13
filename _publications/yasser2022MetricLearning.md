@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/yasser2022MetricLearning
 date: 2022-05-15 01:00:00 +0100
 venue: 'International Conference on Image Analysis and Processing, ICIAP'
-paperurl: 'https://hal.archives-ouvertes.fr/hal-03145521/file/102327.pdf'
 pubtype: 'conference'
 authors: 'Yasser Boutaleb, Catherine Soladie, Nam-Duong Duong, Amine Kacete, Jérôme Royan, Renaud Seguier'
 excerpt_separator: ""
