@@ -9,7 +9,7 @@
 title                    : "Nam Duong Duong"
 title_separator          : "-"
 name                     : &name "Nam Duong Duong"
-description              : &description "Sr. Engineer at GoPro"
+description              : &description "Sr. CV/ML Engineer at Qualcomm"
 url                      : https://duongnamduong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "duongnamduong/duongnamduong.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Nam Duong Duong"
   avatar           : "profile.png"
-  bio              : "Sr. Engineer at GoPro"
+  bio              : "Sr. CV/ML Engineer at Qualcomm"
   location         : "Paris, France"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=D22vMxEAAAAJ&hl=en&oi=ao"
